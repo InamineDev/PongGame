@@ -1,1 +1,3 @@
 # PongGame
+In this project I needed to create a single player and a two player pong game, as well as track the high scores afterwards. The game consists of a paddle, or in two player, two paddles, and the ball is bounced off of the paddle in order to stop it from hitting your wall. 
+To score points in single player mode you just need to bounce the ball off of the opposite wall. In a later version the ball will speed up and also add additional balls to the game that the other balls will also bounce off of. It should become hectic very quickly, making the player proud of any highscores that they manage to achieve.
